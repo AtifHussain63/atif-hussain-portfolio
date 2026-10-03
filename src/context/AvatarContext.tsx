@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 
-export const DEFAULT_AVATAR_URL = '/src/assets/images/Atif Hussain.jpg';
+export const DEFAULT_AVATAR_URL = '/src/assets/images/Atif.jpg';
 const STORAGE_KEY = 'atif_portfolio_real_avatar_v1';
 const AUTH_SESSION_KEY = 'atif_portfolio_admin_session_v1';
 const OWNER_EMAIL = 'atifhuss773@gmail.com';
